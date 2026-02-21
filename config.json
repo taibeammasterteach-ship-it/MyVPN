@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "remarks": "Pzaileng-VPN",
+      "server": "188.166.215.220",
+      "server_port": 47273,
+      "password": "Khamsai",
+      "method": "chacha20-ietf-poly1305"
+    }
+  ]
+}
